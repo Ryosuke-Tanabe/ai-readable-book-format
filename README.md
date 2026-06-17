@@ -4,7 +4,7 @@ AIが文章の主旨を追跡できるようにするための構造化フォー
 
 テキストを `content_units`・`relations`・`interpretations`・`uncertainties` に分解してYAMLとして記述する。
 
-→ 背景と発見についてはnoteの記事を参照（リンク予定）
+→ 背景と発見：[AIが読む本を作ったら、対話の構造的矛盾が見えた](https://note.com/moral_spirea2538/n/n71465bec43f1)（note）
 
 ---
 
